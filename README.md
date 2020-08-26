@@ -1,5 +1,6 @@
+<img src="https://pbs.twimg.com/profile_banners/14987953/1570017356/1500x500">
 <h1 align="center">Hi 👋, I'm Juan José Lopez Lira</h1>
-<h3 align="center">A Rockstar Frontend Developer from Cancún, MX 🤟</h3>
+<h3 align="center">Rockstar Frontend Developer from Cancún, MX 🤟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jlopezlira" alt="jlopezlira" /> </p>
 
