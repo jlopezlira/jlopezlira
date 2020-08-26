@@ -22,10 +22,6 @@
 
 - ⚡ Fun fact **Currently i'm amateur boxing fighter but i don`t like run... only cowards run... away**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <p align="left">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/>
@@ -69,8 +65,11 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="30" height="30"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlopezlira&layout=compact&hide=html" alt="jlopezlira" /></p>
-
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="30" height="30"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlopezlira&layout=compact&hide=html" alt="jlopezlira" />
+</p>
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlopezlira&show_icons=true" alt="jlopezlira" />
 </p>
