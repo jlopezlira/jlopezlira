@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Consul - Open Government and E-Participation Web Software](https://github.com/jlopezlira/consul)
 
-- 👨‍💻 All of my projects are available at [https://jlopezlira.now.sh](https://jlopezlira.now.sh)
+- 👨‍💻 All of my projects are available at [https://agile.now.sh](https://agile.now.sh)
 
 - 📝 I regulary write articles on [https://medium.com/@jlopezlira](https://medium.com/@jlopezlira)
 
