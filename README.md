@@ -71,7 +71,7 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="30" height="30"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlopezlira&layout=compact&hide=html" alt="jlopezlira" /></p>
 
-<p align="center">
+<p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlopezlira&show_icons=true" alt="jlopezlira" />
 </p>
 
