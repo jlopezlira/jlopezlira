@@ -75,9 +75,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlopezlira&show_icons=true" alt="jlopezlira" />
 </p>
 
-## Lasted Medium posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## Latest Medium posts
+<!-- MEDIUM::START -->
+<!-- MEDIUM::END -->
 
 <p align="center">
     <a href="https://dev.to/jlopezlira" target="blank">
