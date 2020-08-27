@@ -77,6 +77,7 @@
 
 ## Latest Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [Weddings by MyDay.travel](https://medium.com/@jlopezlira/weddings-by-myday-travel-af67b43f0db3?source=rss-f7cf1e9f409a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
