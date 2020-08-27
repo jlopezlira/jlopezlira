@@ -76,8 +76,8 @@
 </p>
 
 ## Latest Medium posts
-<!-- <!-- MEDIUM::START -->
-<!-- <!-- MEDIUM::END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
     <a href="https://dev.to/jlopezlira" target="blank">
