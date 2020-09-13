@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=jlopezlira" alt="jlopezlira" />
 </p>
 
-- 🔭 I’m currently working on [Agile](https://agile.now.sh)
+- 🔭 I’m currently working as a freelance web developer.
 
 - 🌱 I’m currently learning **Svelte, Ionic, React Native, Swift, TypeScript**
 
