@@ -77,6 +77,7 @@
 
 ## Latest Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [Funciones útiles de HTML5 para que programes como Rockstar](https://medium.com/@jlopezlira/funciones-%C3%BAtiles-de-html5-para-que-programes-como-rockstar-af917ac7dfa5?source=rss-f7cf1e9f409a------2)
 - [Usa Javascript como Rockstar](https://medium.com/@jlopezlira/usa-javascript-como-rockstar-5f0583e2f75b?source=rss-f7cf1e9f409a------2)
 - [Cambio de paradigma](https://medium.com/@jlopezlira/cambio-de-paradigma-809963ed007e?source=rss-f7cf1e9f409a------2)
 - [Weddings by MyDay.travel](https://medium.com/@jlopezlira/weddings-by-myday-travel-af67b43f0db3?source=rss-f7cf1e9f409a------2)
