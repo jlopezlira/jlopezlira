@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Juan José Lopez Lira</h1>
 <h3 align="center">Rockstar Frontend Developer from Cancún, MX 🤟</h3>
 
-<p align="left">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=jlopezlira" alt="jlopezlira" />
 </p>
 
-- 🔭 I’m currently working as a freelance web developer.
+- 🔭 I’m currently working as a Frontend Engineer at [https://kleeen.software](Kleeen Software).
 
-- 🌱 I’m currently learning **Svelte, Ionic, React Native, Swift, TypeScript**
+- 🌱 I’m currently learning **Svelte, Ionic, React Native, Swift**
 
 - 🤝 I’m looking for help with [Consul - Open Government and E-Participation Web Software](https://github.com/jlopezlira/consul)
 
