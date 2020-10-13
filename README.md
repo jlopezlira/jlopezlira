@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=jlopezlira" alt="jlopezlira" />
 </p>
 
-- 🔭 I’m currently working as a Frontend Engineer at [https://kleeen.software](Kleeen Software).
+- 🔭 I’m currently working as a Frontend Engineer at [Kleeen Software](https://kleeen.software).
 
 - 🌱 I’m currently learning **Svelte, Ionic, React Native, Swift**
 
