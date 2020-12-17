@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as a Frontend Engineer at [Kleeen Software](https://kleeen.software).
 
-- 🌱 I’m currently learning **Angular 10+, Ionic, React ... it's good be updated... **
+- 🌱 I’m currently learning **Angular 10+, Ionic, React (it's good to be updated) **
 
 - 🤝 I’m looking for help with [Consul - Open Government and E-Participation Web Software](https://github.com/jlopezlira/consul)
 
