@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=jlopezlira" alt="jlopezlira" />
 </p>
 
-- 🔭 I’m currently working as a Frontend Engineer at [Kleeen Software](https://kleeen.software).
+- 🔭 I’m currently working as a Frontend Engineer at [Crossbridge Global Partners](http://gocrossbridge.com/).
 
 - 🌱 I’m currently learning **Angular 10+, Ionic, React (it's good to be updated) **
 
