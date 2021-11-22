@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/14987953/1570017356/1500x500" alt="jlopezlira cover Image">
+<img src="https://pbs.twimg.com/profile_banners/14987953/1637602497/1500x500" alt="jlopezlira cover Image">
 <h1 align="center">Hi 👋, I'm Juan José Lopez Lira</h1>
 <h3 align="center">Rockstar Frontend Developer from Cancún, MX 🤟</h3>
 
