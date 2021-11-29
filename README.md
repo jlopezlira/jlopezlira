@@ -5,13 +5,11 @@
     <img src="https://komarev.com/ghpvc/?username=jlopezlira" alt="jlopezlira" />
 </p>
 
-- 🔭 I’m currently working as a Frontend Engineer at [Crossbridge Global Partners](http://gocrossbridge.com/).
+- 🔭 I’m currently working as a Frontend Engineer at [Thrive Market](http://thrivemarket.com/) / [Distillery](http://distillery.com/).
 
-- 🌱 I’m currently learning **Angular 10+, Ionic, React (it's good to be updated) **
+- 🌱 I’m currently learning **Crypto technologies such are Solidly for Smart contracts**
 
 - 🤝 I’m looking for help with [Consul - Open Government and E-Participation Web Software](https://github.com/jlopezlira/consul)
-
-- 👨‍💻 All of my projects are available at [https://agile.now.sh](https://agile.now.sh)
 
 - 📝 I regulary write articles on [https://medium.com/@jlopezlira](https://medium.com/@jlopezlira)
 
@@ -68,7 +66,6 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="30" height="30"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlopezlira&layout=compact&hide=html" alt="jlopezlira" />
 </p>
-
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlopezlira&show_icons=true" alt="jlopezlira" />
