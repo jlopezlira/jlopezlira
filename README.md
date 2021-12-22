@@ -5,11 +5,11 @@
 ![image](https://komarev.com/ghpvc/?username=jlopezlira)
 
 
-- 🔭 I’m currently working as a Frontend Engineer at [Thrive Market](http://thrivemarket.com/) / [Distillery](http://distillery.com/).
-- 🌱 I’m currently learning **Crypto technologies such are Solidly for Smart contracts**
+- 🔭 I’m currently working as a Frontend Engineer at [Distillery](http://distillery.com/).
+- 🌱 I’m currently learning **Crypto technologies such are Solidity for Smart contracts**
 - 🤝 I’m looking for help with [Consul - Open Government and E-Participation Web Software](https://github.com/jlopezlira/consul)
 - 📝 I regulary write articles on [https://medium.com/@jlopezlira](https://medium.com/@jlopezlira)
-- 💬 Ask me about **vue, nuxt, react, next, webpack, sass, flex, grid, nodejs, mongoDB, SQL, PHP, angular**
+- 💬 Ask me about **react, next, webpack, sass, flex, grid, nodejs, mongoDB, SQL, PHP**
 - 📫 How to reach me **jlopezlira@gmail.com**
 - ⚡ Fun fact **Currently i'm amateur boxing fighter but i don`t like run... only cowards run... away**
 
