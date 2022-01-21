@@ -1,3 +1,8 @@
+![image](https://pbs.twimg.com/profile_banners/14987953/1642787130/1500x500)
+
+
+
+
 # Hi, I'm Juan José Lopez Lira (AKA JJ)
 ## Rockstar Frontend Developer from Cancún, MX 🤟
 
