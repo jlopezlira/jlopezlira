@@ -3,7 +3,7 @@
 
 
 
-# Hi, I'm Juan José Lopez Lira (AKA JJ)
+# Hi, I'm Juan José Lopez Lira (JJ)
 ## Rockstar Frontend Developer from Cancún, MX 🤟
 
 
@@ -11,12 +11,10 @@
 
 
 - 🔭 I’m currently working as a Frontend Engineer at [Distillery](http://distillery.com/).
-- 🌱 I’m currently learning **Crypto technologies such are Solidity for Smart contracts**
-- 🤝 I’m looking for help with [Consul - Open Government and E-Participation Web Software](https://github.com/jlopezlira/consul)
+- 🌱 I’m currently learning **legal terms for startups **
 - 📝 I regulary write articles on [https://medium.com/@jlopezlira](https://medium.com/@jlopezlira)
-- 💬 Ask me about **react, next, webpack, sass, flex, grid, nodejs, mongoDB, SQL, PHP**
-- 📫 How to reach me **jlopezlira@gmail.com**
-- ⚡ Fun fact **Currently i'm amateur boxing fighter but i don`t like run... only cowards run... away**
+- 💬 Ask me about **ReactJS, React Native**
+- 📫 How to reach me, **jlopezlira@gmail.com**
 
 ## Featured Technologies
 
@@ -26,7 +24,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="75" height="50px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="75" height="50px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="75" height="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="75" height="50px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="75" height="50px">
 </p>
 
@@ -34,32 +31,15 @@
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="75" height="50px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="75" height="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="75" height="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="75" height="50px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="75" height="50px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="75" height="50px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="75" height="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" width="75" height="50px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="75" height="50px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="75" height="50px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="75" height="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="75" height="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-plain-wordmark.svg" width="75" height="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="75" height="50px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="75" height="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original-wordmark.svg" width="75" height="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg" width="75" height="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original-wordmark.svg" width="75" height="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="75" height="50px">
 </p>
 
-### CI/CD/Devops
-
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="75" height="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" width="75" height="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="75" height="50px">
-</p>
 
 ### UX/UI
 
@@ -86,10 +66,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="75" height="50px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="75" height="50px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="75" height="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="75" height="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="75" height="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" width="75" height="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="75" height="50px">
 </p>
 
 
