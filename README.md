@@ -4,10 +4,13 @@
 
 
 # Hi, I'm Juan José Lopez Lira (JJ)
-## Rockstar Frontend Developer from Cancún, MX 🤟
+## Senior Frontend / React Native / Flutter Engineer
 
+As a Software Engineer with over 10 years of experience, I have designed, developed, and maintained user and business-focused applications. My main focus is on frontend development, using ReactJS, React Native, and Flutter to build beautiful interfaces.
 
-![image](https://komarev.com/ghpvc/?username=jlopezlira)
+When it comes to code, I consider myself a minimalist enthusiast who applies clean code and S.O.L.I.D. patterns to the front-end.
+
+One of my passions is UX/UI, which involves creating user-based interfaces. This allows me to stay up-to-date with web and mobile development trends.
 
 
 - 🔭 I’m currently working as a Frontend Engineer at [Distillery](http://distillery.com/).
@@ -102,3 +105,5 @@
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="jlopezlira" height="20" width="75" />
     </a>
 </center>
+
+![image](https://komarev.com/ghpvc/?username=jlopezlira)
