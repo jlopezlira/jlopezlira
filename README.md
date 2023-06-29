@@ -1,5 +1,4 @@
-# Hi, I'm Juan José Lopez Lira (JJ)
-## Senior Frontend / React Native / Flutter Engineer
+# Senior Frontend / React Native / Flutter Engineer
 
 As a Software Engineer with over a decade of experience, I am a master of designing, developing, and maintaining innovative applications using JavaScript.
 
