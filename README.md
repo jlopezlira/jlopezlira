@@ -1,12 +1,8 @@
 # Senior Frontend / React Native / Flutter Engineer
 
-As a Software Engineer with over a decade of experience, I am a master of designing, developing, and maintaining innovative applications using JavaScript.
+As a software engineer with over a decade of experience, I excel at designing, developing, and maintaining innovative applications using JavaScript. My expertise lies primarily in frontend development, with a focus on ReactJS, React Native, and Flutter.
 
-My focus is primarily on frontend development, and I am a wizard when it comes to ReactJS, React Native, and Flutter.
-
-I am an avid proponent of minimalism, and I'm committed to producing code that is as clean and efficient as possible, adhering to the most advanced S.O.L.I.D. design principles.
-
-My passion for UX/UI design is unbridled, allowing me to stay ahead of the curve on the latest web and mobile development trends.
+I value minimalism and strive to produce clean and efficient code that adheres to advanced S.O.L.I.D. design principles. I'm also passionate about UX/UI design, which helps me stay on top of the latest web and mobile development trends.
 
 
 - 🔭 I’m currently working as a Frontend Engineer at [Distillery](http://distillery.com/).
