@@ -1,22 +1,19 @@
-![image](https://pbs.twimg.com/profile_banners/14987953/1683164690/1500x500)
-
-
-
-
 # Hi, I'm Juan José Lopez Lira (JJ)
 ## Senior Frontend / React Native / Flutter Engineer
 
-As a Software Engineer with over 10 years of experience, I have designed, developed, and maintained user and business-focused applications. My main focus is on frontend development, using ReactJS, React Native, and Flutter to build beautiful interfaces.
+As a Software Engineer with over a decade of experience, I am a master of designing, developing, and maintaining innovative applications using JavaScript.
 
-When it comes to code, I consider myself a minimalist enthusiast who applies clean code and S.O.L.I.D. patterns to the front-end.
+My focus is primarily on frontend development, and I am a wizard when it comes to ReactJS, React Native, and Flutter.
 
-One of my passions is UX/UI, which involves creating user-based interfaces. This allows me to stay up-to-date with web and mobile development trends.
+I am an avid proponent of minimalism, and I'm committed to producing code that is as clean and efficient as possible, adhering to the most advanced S.O.L.I.D. design principles.
+
+My passion for UX/UI design is unbridled, allowing me to stay ahead of the curve on the latest web and mobile development trends.
 
 
 - 🔭 I’m currently working as a Frontend Engineer at [Distillery](http://distillery.com/).
-- 🌱 I’m currently learning **legal terms for startups **
+- 🌱 I’m currently learning **legal terms for startups**
 - 📝 I regulary write articles on [https://medium.com/@jlopezlira](https://medium.com/@jlopezlira)
-- 💬 Ask me about **ReactJS, React Native**
+- 💬 Ask me about **ReactJS, React Native, Flutter**
 - 📫 How to reach me, **jlopezlira@gmail.com**
 
 ## Featured Technologies
