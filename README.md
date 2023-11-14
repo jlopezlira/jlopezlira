@@ -1,6 +1,6 @@
 # Senior Frontend [ReactJS, ReactNative, VueJS]
 
-As a software engineer with over a decade of experience, I excel at designing, developing, and maintaining innovative applications using JavaScript. My expertise lies primarily in frontend development, with a focus on ReactJS, React Native, and Flutter.
+As a software engineer with over a decade of experience, I excel at designing, developing, and maintaining innovative applications using JavaScript. My expertise lies primarily in frontend development, with a focus on ReactJS, React Native, and VueJS.
 
 I value minimalism and strive to produce clean and efficient code that adheres to advanced S.O.L.I.D. design principles. I'm also passionate about UX/UI design, which helps me stay on top of the latest web and mobile development trends.
 
