@@ -1,4 +1,4 @@
-# Senior Frontend / React Native / Flutter Engineer
+# Senior Frontend [ReactJS, ReactNative, VueJS]
 
 As a software engineer with over a decade of experience, I excel at designing, developing, and maintaining innovative applications using JavaScript. My expertise lies primarily in frontend development, with a focus on ReactJS, React Native, and Flutter.
 
