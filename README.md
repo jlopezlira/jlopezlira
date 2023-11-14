@@ -8,7 +8,7 @@ I value minimalism and strive to produce clean and efficient code that adheres t
 - 🔭 I’m currently working as a Frontend Engineer at [Distillery](http://distillery.com/).
 - 🌱 I’m currently learning **legal terms for startups**
 - 📝 I regulary write articles on [https://medium.com/@jlopezlira](https://medium.com/@jlopezlira)
-- 💬 Ask me about **ReactJS, React Native, Flutter**
+- 💬 Ask me about **ReactJS, React Native, VueJS**
 - 📫 How to reach me, **jlopezlira@gmail.com**
 
 ## Featured Technologies
