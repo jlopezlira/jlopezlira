@@ -1,5 +1,3 @@
-<img src="https://pbs.twimg.com/profile_banners/14987953/1771462874/600x200">
-
 # JJ
 Product Engineer. Founder. Shipping AI products.
 
